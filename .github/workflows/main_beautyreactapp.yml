@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'beautyReactApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_001AA14152A74A28891E37E5F63D24A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEE4BDC3A5A84E7CB18C63A2C2207889 }}
           package: .
